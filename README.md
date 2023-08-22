@@ -1,1 +1,1 @@
-# colab_script_for_brainpy
+# google_colab_script_for_brainpy
